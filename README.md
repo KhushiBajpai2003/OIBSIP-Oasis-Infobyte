@@ -1,6 +1,7 @@
 # OIBSIP-Oasis-Infobyte
 This Repository consists of some tasks such in which I have created some machine leaning model on Iris flower dataset, Car Price Predictor and also performed Exploratory data analysis on sales analysis using python.
 ################################################################
+
 TASK 1 - CAR PRICE PREDICTION MODEL
 Introduction
 This repository contains the code for training a machine learning model to predict selling price of the car based on some features. The goal is to develop a model that can accurately predict the seeling price of the car based on their features.
@@ -19,6 +20,7 @@ model is trained using the car dataset and evaluated for its accuracy
 Testing
 After training the models, a new test dataset is used to assess their performance. The test dataset contains different entries for features and it predicted thr accurate price for those cars. The trained models predict the species of these flowers, and their accuracy is evaluated.
 ####################################################################
+
 TASK 2 - UNEMPLOYMENT ANALYSIS WITH PYTHON
 Introduction
 This repository contains a data science project aimed at analyzing the unemployment rate, particularly during the Covid-19 pandemic. Unemployment is an important economic indicator that measures the number of people who are unemployed as a percentage of the total labor force. By studying and understanding the trends and factors affecting unemployment, we can gain valuable insights into the job market and the broader economy.
@@ -33,6 +35,7 @@ Python (version 3.6 or higher)
 Jupyter Notebook or JupyterLab
 Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,etc.)
 ######################################################################
+
 
 TASK -3 Iris Flower Classification
 This repository contains the code for training a machine learning model to classify Iris flowers based on their measurements. The Iris flower dataset consists of three species: Setosa, Versicolor, and Virginica, each having distinct measurement characteristics. The goal is to develop a model that can accurately classify Iris flowers based on their measurements.
@@ -57,6 +60,8 @@ Each model is trained using the Iris flower dataset and evaluated for its accura
 Testing
 After training the models, a new test dataset is used to assess their performance. The test dataset contains measurements of Iris flowers with unknown species. The trained models predict the species of these flowers, and their accuracy is evaluated.
 #########################################################################
+
+
 TASK -4 Sales Analysis Using Python
 Introduction
 This repository contains a data science project aimed at the Sales Analysis.Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product, the segment of people you advertise for, or the platform you are advertising on about your product.
